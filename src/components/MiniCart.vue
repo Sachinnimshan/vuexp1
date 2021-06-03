@@ -1,5 +1,12 @@
 <template>
-    <div class="dropdown-menu" style="min-width:320px; right: 0; left: auto; padding: 1rem;" aria-labelledby="triggerId">
+    <div class="dropdown-menu" 
+    style="min-width:320px; 
+    right: 0; 
+    left: auto; 
+    margin-top: 0.5rem; 
+    padding: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" 
+    aria-labelledby="triggerId">
         <div>
             <div class="px-2 d-flex justify-content-between">
                 <div>
