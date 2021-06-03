@@ -1,6 +1,6 @@
 <template>
    <div>
-       <nav class="navbar navbar-expand navbar-dark bg-dark py-3">
+       <nav class="navbar navbar-expand navbar-dark bg-dark p-3">
         <div class="container">
                <div class="nav navbar-nav">
                <a class="nav-item nav-link active" href="#">Home</a>
