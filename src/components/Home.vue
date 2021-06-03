@@ -1,9 +1,13 @@
 <template>
-    <h1>Hello Sachin</h1>
+    <ProductList/>
 </template>
 
 <script>
+import ProductList from './ProductList';
 export default {
-    name: "Home"
+    name: "Home",
+    components:{
+        ProductList
+    }
 }
 </script>
