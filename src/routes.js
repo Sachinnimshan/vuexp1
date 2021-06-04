@@ -10,6 +10,7 @@ export default [
     {
         path: '/product/:id',
         component: ProductScreen,
-        name: "productscreen"
+        name: "ProductScreen",
+        props: true
     }
 ]
